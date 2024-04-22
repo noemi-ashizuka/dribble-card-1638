@@ -3,6 +3,7 @@
 @import url("components/avatar.css");
 @import url("components/button.css");
 
+
 /* --- Fonts --- */
 body {
   font-family: "Open Sans", "Helvetica", "sans-serif";
@@ -36,6 +37,7 @@ a:hover {
   list-style: none;
   padding-left: 0px;
   margin: 0;
+
 }
 
 .list-inline li {
